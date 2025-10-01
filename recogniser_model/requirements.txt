@@ -1,0 +1,5 @@
+opencv-python
+opencv-contrib-python
+numpy
+dlib
+"mkl_fft-1.3.11-cp310-cp310-win_amd64.whl"
